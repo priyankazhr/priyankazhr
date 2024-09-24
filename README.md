@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyankazhr
-- 👀 I’m interested in Business
-- 🌱 I’m currently learning Web Programming
+- 👀 I’m interested in Bussiness
+- 🌱 I’m currently learning Web Programming & Data Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
